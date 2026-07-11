@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is archive-manager?
-Create and extract archives (ZIP, TAR.GZ)
+A CLI tool for archive manager.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
