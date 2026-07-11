@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is archive-manager?
-A CLI tool for archive manager.
+Archive Manager
 
 ## Dependencies?
 Python stdlib only.

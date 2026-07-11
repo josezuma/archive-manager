@@ -1,7 +1,7 @@
 # archive-manager
 
-CLI tool for archive manager.
+Archive Manager
 
 ## For AI agents
-- Run `python3 scripts/cli.py --help`
-- Use `--json` flag for machine-readable output
+- Run `python3 scripts/archive_manager.py --help`
+- Use `--json` for machine-readable output
